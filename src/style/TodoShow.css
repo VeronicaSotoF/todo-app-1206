@@ -1,0 +1,23 @@
+.todo-card {
+  border: 1px solid mediumvioletred;
+  border-radius: 10px;
+}
+
+.buttons {
+  display: flex;
+  gap: 16px;
+  padding: 10px;
+}
+
+.card-content {
+  padding-left: 10px;
+}
+
+.buttons button {
+  border-radius: 7px;
+}
+
+.delete {
+  background-color: rgb(214, 73, 73);
+  border: 1px solid rgb(214, 73, 73);
+}
